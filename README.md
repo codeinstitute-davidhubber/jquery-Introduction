@@ -11,6 +11,8 @@
 ***
 #### project url: **'https://codeinstitute-davidhubber.github.io/jquery-introduction/'**
 ***
+#### index url: **'https://codeinstitute-davidhubber.github.io/jquery-introduction/Cards-jquery.html'**
+***
 
 ## jQuery Introduction
 
